@@ -1,0 +1,40 @@
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\bin\Debug\Mantenimiento_sistem.exe.config
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\bin\Debug\Mantenimiento_sistem.exe
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\bin\Debug\Mantenimiento_sistem.pdb
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Properties.Resources.resources
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.exe
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.pdb
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Menu_P1.resources
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Form2.resources
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Form3.resources
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Form4.resources
+C:\Users\Michael\Desktop\Trabajo Infotep\C#\Sistema_mantenimiento\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Form5.resources
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\bin\Debug\Mantenimiento_sistem.exe.config
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\bin\Debug\Mantenimiento_sistem.exe
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\bin\Debug\Mantenimiento_sistem.pdb
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.csprojResolveAssemblyReference.cache
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Menu_p1.resources
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Form2.resources
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Form3.resources
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Form4.resources
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Form5.resources
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Properties.Resources.resources
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.csproj.GenerateResource.Cache
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.exe
+C:\Users\Johnkel\Desktop\Disco duro\Memoria\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.pdb
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\bin\Debug\Mantenimiento_sistem.exe.config
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\bin\Debug\Mantenimiento_sistem.exe
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\bin\Debug\Mantenimiento_sistem.pdb
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.csprojAssemblyReference.cache
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Menu_p1.resources
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Form2.resources
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Form3.resources
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Form4.resources
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Form5.resources
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.Properties.Resources.resources
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.csproj.GenerateResource.cache
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.csproj.CoreCompileInputs.cache
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.exe
+C:\Users\Johnkel\Desktop\Programacion\Mantenimiento_sistem\Mantenimiento_sistem\obj\Debug\Mantenimiento_sistem.pdb
